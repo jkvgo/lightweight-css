@@ -6,10 +6,10 @@ This is a very simple lightweight css helper that helps you avoid creating multi
 ## How to install
 `npm install lightweight-css`
 
-You can choose to import it straight 
+You can choose to import it straight <br/>
 `<link rel="stylesheet" href="./node_modules/lightweight-css/lightweight-css.css"/>`
 
-or if you're using Webpack to compile and bundle your CSS you can simply use:
+or if you're using Webpack to compile and bundle your CSS you can simply use:<br/>
 `import "lightweight-css";`
 
 ## Basic Usage
