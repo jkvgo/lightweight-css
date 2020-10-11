@@ -1,0 +1,93 @@
+.block{
+	display: block;
+}
+
+.inline-block{
+	display: inline-block;
+}
+
+.hidden {
+    display:none
+}
+
+.center-text{
+	text-align: center;
+}
+
+.right-text{
+	text-align: right;
+}
+
+.no-decor{
+	text-decoration: none;
+}
+
+.no-select {
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.pos-rel{
+	position: relative !important;
+}
+
+.pos-abs{
+	position: absolute !important;
+}
+
+.pos-fix{
+	position: fixed !important;
+}
+
+.flex{
+	display: flex;
+}
+
+.flex-row{
+	flex-flow: row;
+}
+
+.flex-col{
+	flex-flow: column;
+}
+
+.flex-wrap{
+	flex-wrap: wrap;
+}
+
+.just-start{
+	justify-content: flex-start;
+}
+
+.just-center{
+	justify-content: center;
+}
+
+.just-end{
+	justify-content: flex-end;
+}
+
+.just-between{
+	justify-content: space-between;
+}
+
+.items-start{
+	align-items: flex-start;
+}
+
+.items-center{
+	align-items: center;
+}
+
+.items-end{
+	align-items: flex-end;
+}
