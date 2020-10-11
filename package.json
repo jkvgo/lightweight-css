@@ -1,0 +1,26 @@
+{
+  "name": "lightweight-css",
+  "version": "1.0.0",
+  "description": "Lightweight CSS helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkvgo/lightweight-css.git"
+  },
+  "keywords": [
+    "CSS",
+    "lightweight",
+    "helper",
+    "css",
+    "utility"
+  ],
+  "author": "jkvgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkvgo/lightweight-css/issues"
+  },
+  "homepage": "https://github.com/jkvgo/lightweight-css#readme"
+}
